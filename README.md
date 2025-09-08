@@ -1,4 +1,4 @@
-# Customer Order Analysis
+[customer_table.csv](https://github.com/user-attachments/files/22206720/customer_table.csv)# Customer Order Analysis
 This repository shows us how to extract customer order insights in the easiest way possible by SQL.
 
 📌 Project Overview
@@ -15,5 +15,6 @@ The project uses two tables:
 
 Files included:
 1. [orders_table.csv](https://github.com/user-attachments/files/22198075/orders_table.csv)
-2. [CustomerOrderAnalysis_script.sql](https://github.com/user-attachments/files/22198078/CustomerOrderAnalysis_script.sql)
+2. [customer_table.csv](https://github.com/user-attachments/files/22206729/customer_table.csv)
+3. [CustomerOrderAnalysis_script.sql](https://github.com/user-attachments/files/22198078/CustomerOrderAnalysis_script.sql)
 
